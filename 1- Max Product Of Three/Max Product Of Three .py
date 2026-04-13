@@ -1,15 +1,4 @@
-# تقسيم النص يدويًا بدل split()
-def manual_split(text, separator):
-    current = ""
-    result = []
-    for ch in text:
-        if ch == separator:
-            result.append(current)
-            current = ""
-        else:
-            current += ch
-    result.append(current)
-    return result
+
 
 
 # التحقق أن النص يمثل عدد صحيح فقط (يدويًا)
