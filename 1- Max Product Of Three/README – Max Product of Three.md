@@ -1,12 +1,3 @@
-# 🧩 Project 1 — Max Product of Three
-
-## 📖 Description
-This program finds the **maximum possible product** of any three numbers from a non-empty array of integers.  
-Unlike normal implementations, this version is fully **manual** — it doesn’t use any built-in functions like `split()`, `sort()`, or `max()`.
-
----
-
-## 🧠 Example
 
 ### Example 1
 ```
